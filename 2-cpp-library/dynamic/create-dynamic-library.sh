@@ -1,0 +1,1 @@
+g++ -dynamiclib -flat_namespace ../lib/add.cc -o add.so
